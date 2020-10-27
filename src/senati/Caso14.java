@@ -15,9 +15,9 @@ public class Caso14 {
 		// Por ejemplo: Si n = 5, (5 * 6) / 2 -> 15
 		int sumatoria = (n * (n + 1)) / 2;
 		
-		System.out.println("Resultados");
-		System.out.println("==========");
-		System.out.println("La sumatoria es...: " + sumatoria);
+		System.out.println("   Resultados  ");
+		System.out.println("===============");
+		System.out.println("La sumatoria de " + n + " es: " + sumatoria);
 	}
 
 }
